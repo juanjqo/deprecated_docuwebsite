@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/juanjqo.github.io/blog</id>
+    <title>Juan José Quiroz Omaña, Ph.D. Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/juanjqo.github.io/blog"/>
+    <subtitle>Juan José Quiroz Omaña, Ph.D. Blog</subtitle>
+    <icon>https://github.com/juanjqo.github.io/img/manipulator.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://github.com/juanjqo.github.io/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In construction]]></summary>
+        <content type="html"><![CDATA[<p>In construction</p>]]></content>
+        <author>
+            <name>Juan J Quiroz O</name>
+            <uri>https://github.com/juanjqo</uri>
+        </author>
+        <category label="blog" term="blog"/>
+    </entry>
+</feed>
