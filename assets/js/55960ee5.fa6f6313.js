@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"Publications","permalink":"/juanjqo.github.io/docs/tags/publications","count":1}]')}}]);
