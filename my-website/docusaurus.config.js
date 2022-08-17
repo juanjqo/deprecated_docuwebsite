@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Juan José Quiroz Omaña, Ph.D.',
   tagline: '',
-  url: 'https://juanjqo.github.io',
+  url: 'https://juanjqo.netlify.app',  // 'https://docusaurus-2.netlify.app'  'https://juanjqo.github.io'
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
