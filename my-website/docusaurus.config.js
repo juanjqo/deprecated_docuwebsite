@@ -9,7 +9,7 @@ const config = {
   title: 'Juan José Quiroz Omaña, Ph.D.',
   tagline: '',
   url: 'https://juanjqo.github.io',  // 'https://docusaurus-2.netlify.app'  'https://juanjqo.github.io'
-  baseUrl: '/juanjqo.github.io/',
+  baseUrl: '/', // '/juanjqo.github.io/'
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/manipulator.png', 
