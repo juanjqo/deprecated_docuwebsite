@@ -6,7 +6,6 @@ tags:
 ---
 
 
-# Publications
+<iframe  width="1000" height="680" src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero%2Fjuanjqo&folding=0&nocache=1&&group0=note&sort=-year"></iframe>
 
-<iframe width="1000" height="680" src="https://bibbase.org/show?bib=juanjqo.github.io%2Fmy-website%2F%2Ffiles%2FJuanQuiroz.bib&folding=0&nocache=1&group0=custom_type"></iframe>
 

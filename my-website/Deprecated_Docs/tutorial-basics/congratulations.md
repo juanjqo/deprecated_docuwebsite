@@ -19,3 +19,11 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 - Add a [search bar](https://docusaurus.io/docs/search)
 - Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
 - Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+
+
+
+# Publications
+
+<iframe width="1000" height="680" src="https://bibbase.org/show?bib=juanjqo.github.io%2Fmy-website%2F%2Ffiles%2FJuanQuiroz.bib&folding=0&nocache=1&group0=custom_type"></iframe>
+
+group1=year
