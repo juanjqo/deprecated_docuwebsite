@@ -28,3 +28,11 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* this change the font of the page
+@import url('http://fonts.googleapis.com/css?family=Ubuntu:regular');
+
+:root {
+  --ifm-font-family-base: 'Ubuntu';
+}
+*/
