@@ -102,6 +102,10 @@ const config = {
                 label: 'ORCID',
                 href: 'https://orcid.org/0000-0002-0664-139X',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/juanjqo/'
+              },
             ],
           },
           {
