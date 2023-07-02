@@ -1,17 +1,18 @@
+#bibbase_header a {
+    text-decoration: none;
+}
+
 #bibbase_header i {
     width: 16px;
     text-align: center;
     margin-right: 5px;
 }
 
-@import url('http://fonts.googleapis.com/css?family=Ubuntu:regular');
-
 .bibbase_group {
     /* background-color: #D0D0E0; */
     background-color: #E0E0E0;
     font-style: italic;
     font-size: larger;
-    font-family: "Lucida Console", "Courier New", monospace;  
     text-shadow: 0px 0px 3px #FFFFFF;
     border-radius: 4px 4px 4px 4px;
     -moz-border-radius: 4px 4px 4px 4px;
@@ -31,15 +32,15 @@ img.bibbase_icon {
     width: 20px;
     max-height: 16px;
     vertical-align: text-top;
-
+    
 
     filter: url("data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'><filter%20id='grayscale'><feColorMatrix%20type='matrix'%20values='0.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200%200%200%201%200'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
     filter: grayscale(100%); /* Current draft standard */
     -webkit-filter: grayscale(100%); /* New WebKit */
     -moz-filter: grayscale(100%);
-    -ms-filter: grayscale(100%);
+    -ms-filter: grayscale(100%); 
     -o-filter: grayscale(100%);
-    filter: gray; /* IE6+ */ 
+    filter: gray; /* IE6+ */
 }
 
 img.bibbase_icon:hover {
@@ -92,12 +93,21 @@ img.bibbase_icon:hover {
 
 .bibbase_paper_content {
     font-size: smaller;
-   
 }
 
-.bibbase_artifact_badge {
-  width: 1.2em;
-  height: 1.2em;
-
-  vertical-align: text-top;
+.bibbase_note {
+    color: red;
+    font-weight: bold;
 }
+
+.note {
+    color: green;
+    font-style: italic;
+}
+
+/*
+   Change Arxiv Links https://bibbase.userecho.com/communities/1/topics/46-support-for-links-to-arxiv-preprints
+   ========================================================================== */
+
+a[href^="http://arxiv.org"] .bibbase_icon { display: none; }
+a[href^="http://arxiv.org"] .bibbase_icon_text { display: inline-block; }

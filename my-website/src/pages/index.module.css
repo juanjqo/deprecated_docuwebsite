@@ -21,3 +21,20 @@
   align-items: center;
   justify-content: center;
 }
+
+.always_dark {
+  padding: 1rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background-color: #000000;  /* #32363e; */
+}
+
+.always_light {
+  padding: 1rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  color: #000000
+}

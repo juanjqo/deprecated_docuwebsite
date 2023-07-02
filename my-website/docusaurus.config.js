@@ -83,7 +83,9 @@ const config = {
           },*/
           {
             href: 'https://github.com/juanjqo',
-            label: 'GitHub',
+            //label: 'GitHub',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
             position: 'right',
           },
         ],
